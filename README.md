@@ -22,7 +22,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Rasif-Taghizada/My-portfolio"</a>Project</td>
+            <td><a href="https://github.com/jaideep3336/Jai-Portfolio"</a>Project</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/Rasif-Taghizada/My-portfolio?style=flat&logo=github"/></td>
